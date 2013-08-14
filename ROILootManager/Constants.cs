@@ -33,5 +33,7 @@ namespace ROILootManager {
         // Real loot sheet
         public const string ROI_ROF_LOOT_URI = "https://spreadsheets.google.com/feeds/spreadsheets/private/full/trtkBWhxlyTB-Sozi9hNr5g";
 
+        public const string RAID_ATTENDANCE_URL = "http://roiguild.org/dkp/viewmembers.php";
+
     }
 }
