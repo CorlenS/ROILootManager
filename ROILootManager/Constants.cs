@@ -1,7 +1,7 @@
 ﻿
 namespace ROILootManager {
     public class Constants {
-        public const string PROGRAM_VERSION = "0.8";
+        public const string PROGRAM_VERSION = "0.9";
 
         public static string CLIENT_ID = "387553138581.apps.googleusercontent.com";
 
